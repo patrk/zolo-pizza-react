@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f301e629.css",
-    "main.js": "/static/js/main.75e7a59a.js",
-    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
-    "static/media/folio.jpeg": "/static/media/folio.d6b12999a4c1cbc1990b.jpeg",
-    "static/media/logo.png": "/static/media/logo.7bab36001c9b7edcd0db.png",
-    "static/media/background.jpg": "/static/media/background.2f0ef62f6d7409545404.jpg",
-    "static/media/minilogo.png": "/static/media/minilogo.30509c71ff2ee1e9ff25.png",
-    "static/media/mein_lokal.png": "/static/media/mein_lokal.4c4405a2e45e4fb39cb6.png",
-    "static/media/logo_text.png": "/static/media/logo_text.94ecc11c61d833a89a2e.png",
-    "index.html": "/index.html",
-    "main.f301e629.css.map": "/static/css/main.f301e629.css.map",
-    "main.75e7a59a.js.map": "/static/js/main.75e7a59a.js.map",
-    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/zolo-pizza-react/static/css/main.f301e629.css",
+    "main.js": "/zolo-pizza-react/static/js/main.4783a744.js",
+    "static/js/787.d4aba7ab.chunk.js": "/zolo-pizza-react/static/js/787.d4aba7ab.chunk.js",
+    "static/media/folio.jpeg": "/zolo-pizza-react/static/media/folio.d6b12999a4c1cbc1990b.jpeg",
+    "static/media/logo.png": "/zolo-pizza-react/static/media/logo.7bab36001c9b7edcd0db.png",
+    "static/media/background.jpg": "/zolo-pizza-react/static/media/background.2f0ef62f6d7409545404.jpg",
+    "static/media/minilogo.png": "/zolo-pizza-react/static/media/minilogo.30509c71ff2ee1e9ff25.png",
+    "static/media/mein_lokal.png": "/zolo-pizza-react/static/media/mein_lokal.4c4405a2e45e4fb39cb6.png",
+    "static/media/logo_text.png": "/zolo-pizza-react/static/media/logo_text.94ecc11c61d833a89a2e.png",
+    "index.html": "/zolo-pizza-react/index.html",
+    "main.f301e629.css.map": "/zolo-pizza-react/static/css/main.f301e629.css.map",
+    "main.4783a744.js.map": "/zolo-pizza-react/static/js/main.4783a744.js.map",
+    "787.d4aba7ab.chunk.js.map": "/zolo-pizza-react/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f301e629.css",
-    "static/js/main.75e7a59a.js"
+    "static/js/main.4783a744.js"
   ]
 }

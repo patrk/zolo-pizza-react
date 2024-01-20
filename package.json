@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://patrk.github.io/zolo-pizza-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

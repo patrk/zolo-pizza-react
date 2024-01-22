@@ -1,3 +1,4 @@
+[![CI](https://github.com/patrk/zolo-pizza-react/actions/workflows/blank.yml/badge.svg)](https://github.com/patrk/zolo-pizza-react/actions/workflows/blank.yml)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
